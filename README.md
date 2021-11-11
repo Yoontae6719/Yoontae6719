@@ -28,7 +28,7 @@ I am Yoontae Hwang 😃. I belong to the UNIST Financial Engineering Lab.  [Clic
 ## ⚡ Technologies
 Talk to me about:
 - Deep learning research using **Python**.
-- Statistical analysis using **R**.
+- Statistical analysis using **R, Python**.
 
 
 ## Hello World!! 🤔
