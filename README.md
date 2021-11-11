@@ -23,6 +23,9 @@ I am Yoontae Hwang 😃. I belong to the UNIST Financial Engineering Lab.  [Clic
       - A Research on Efficient Disaster Recovery based on an Artificial Intelligence Model for Household Financial Health Check, K-DATA, Korea (Jun. 2020 ~ Nov. 2020)
 
 * **Point process**
+    - Publications 
+      - Will be updated !!
+
 
 
 ## ⚡ Technologies
