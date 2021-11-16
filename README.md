@@ -38,7 +38,7 @@ Talk to me about:
 - 💬 Ask me about anything an everything.
 
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=yoontae&hide=["issues"]&show_icons=true)
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=yoontae6719&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yoontae.yoontae)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yoontae6719.yoontae6719)
 
