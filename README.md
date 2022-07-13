@@ -7,25 +7,6 @@
 
 I am Yoontae Hwang 😃. I am studying at the UNIST Financial Engineering Lab as an integrated master's and doctoral program.  [Click](https://www.notion.so/unist-felab/Research-Area-468eaf833b7246f893bae2e33aeb4c8a) 
 
-## 🤔 Research interests
-* **Time series modeling**
-    - Publications
-        - Study on the Estimation of Apartment Price Index: Focused on the Machine Learning Algorithm, 2019, Journal of Money & Finance, 33(3), 51-83.
-    - Project
-        - AI-driven lifetime medical expenditure management, UNIST, Korea (Jan. 2021 ~ Present)
-        - Study for developing deep learning models for energy demand forecast, Korea Energy Economics Institute, Korea (Sep. 2021 ~ Present)
-* **Behavioral economics**
-    - Publications 
-      - Household Financial Health, 2021, Management Science, **Under Review**.
-      - Identifying Household Heterogeneity via Deep Clustering, 2021, Annual of Operations Research **Under Review**.
-    - Project
-      - Big data analysis of individual investor's trading patterns: focused on the behavioral economics, NRF of korea, Korea (May. 2021 ~ Present)
-      - A Research on Efficient Disaster Recovery based on an Artificial Intelligence Model for Household Financial Health Check, K-DATA, Korea (Jun. 2020 ~ Nov. 2020)
-
-* **Point process**
-    - Publications 
-      - Will be updated !!
-
 
 
 ## ⚡ Technologies
