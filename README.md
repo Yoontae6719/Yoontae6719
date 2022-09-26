@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-yoontae-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoontae/)](https://www.linkedin.com/in/yoontae/) 
 [![Gmail Badge](https://img.shields.io/badge/-yoontae@unist.ac.kr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoontae@unist.ac.kr)](mailto:yoontae@unist.ac.kr)
 
-I am Yoontae Hwang 😃. I am studying at the UNIST Financial Engineering Lab as an integrated master's and doctoral program.  [Click MY CV](https://drive.google.com/file/d/1X99ObKhBPSpLQrIttJOLqRgWDtpwmDd7/view) 
+I am Yoontae Hwang 😃. I am studying at the UNIST Financial Engineering Lab as an integrated master's and doctoral program.  [Click CV files](https://drive.google.com/file/d/1X99ObKhBPSpLQrIttJOLqRgWDtpwmDd7/view) 
 
 My recent topic of interest is deep learning, focusing on developing to model, generalization and optimization on tabular data. I mainly deal with topics related to finance (e.g., Household finance and Asset management planning) using deep learning, but this is not limited thereto. The goal of the Ph.D. course is to devise a simple yet effective asset management planning methodology for ordinary people to build an individual's retirement preparation and efficient asset management method. This will help everyone, not just limit asset management to existing wealthy people.
 
