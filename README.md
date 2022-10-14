@@ -20,5 +20,4 @@ My recent topic of interest is deep learning, focusing on developing to model, g
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=yoontae6719&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yoontae6719.yoontae6719)
 
