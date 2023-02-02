@@ -10,8 +10,8 @@ I am Yoontae Hwang 😃. I am studying at the UNIST Financial Engineering Lab as
 My recent topic of interest is deep learning, focusing on developing to model, generalization and optimization on tabular data. I mainly deal with topics related to finance (e.g., Household finance and Asset management planning) using deep learning, but this is not limited thereto. The goal of the Ph.D. course is to devise a simple yet effective asset management planning methodology for ordinary people to build an individual's retirement preparation and efficient asset management method. This will help everyone, not just limit asset management to existing wealthy people.
 
 
-## ⚡ Update (2022-11-27)
-- I will release a github repository on SSL soon.
+## ⚡ Update (2023-02-03)
+- I will release a github repository on STCC soon.
 
 
 ## Hello World!! 🤔
