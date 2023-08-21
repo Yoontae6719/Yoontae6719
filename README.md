@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-yoontae-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoontae/)](https://www.linkedin.com/in/yoontae/) 
 [![Gmail Badge](https://img.shields.io/badge/-yoontae@unist.ac.kr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoontae@unist.ac.kr)](mailto:yoontae@unist.ac.kr)
 
-I am Yoontae Hwang 😃. I am studying at the UNIST Financial Engineering Lab as an integrated master's and doctoral program.  [Click my CV](https://drive.google.com/file/d/1X99ObKhBPSpLQrIttJOLqRgWDtpwmDd7/view?usp=sharing) 
+I am Yoontae Hwang 😃. I am studying at the UNIST Financial Engineering Lab as an integrated master's and doctoral program.  [Click my Website](https://yoontae6719.github.io/) 
 
 
 ## Hello World!! 🤔
