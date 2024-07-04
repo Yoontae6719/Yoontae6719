@@ -5,7 +5,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-yoontae-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoontae/)](https://www.linkedin.com/in/yoontae/) 
 [![Gmail Badge](https://img.shields.io/badge/-yoontae@unist.ac.kr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoontae@unist.ac.kr)](mailto:yoontae@unist.ac.kr)
 
-I am Yoontae Hwang 😃. I am studying at the UNIST Financial Engineering Lab as an integrated master's and doctoral program.  [Click my Website](https://yoontae6719.github.io/) 
+Yoontae Hwang received my Ph.D. in Industrial Engineering from Ulsan National Institute of Science and Technology (UNIST, Korea) on August 16, 2024. My dissertation, titled "Financial Representation Learning," was completed under the supervision of [Yongjae Lee](https://scholar.google.co.kr/citations?user=dAMXPRcAAAAJ&hl=en).  [Click my Website](https://yoontae6719.github.io/) 
+
+Recently, I was awarded the Sejong Science Fellowship by the National Research Foundation of Korea. Since September 2024, I have been working as a visiting postdoctoral researcher in Prof. [Stefan Zohren](https://scholar.google.co.uk/citations?user=mtNQD-8AAAAJ&hl=en)'s lab at the University of Oxford, where I've been focused on time-series analysis based on deep learning.
 
 
 ## Hello World!! 🤔
