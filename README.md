@@ -3,7 +3,6 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-yoontae-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoontae/)](https://www.linkedin.com/in/yoontae/) 
-[![Gmail Badge](https://img.shields.io/badge/-yoontae@unist.ac.kr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoontae@unist.ac.kr)](mailto:yoontae@unist.ac.kr)
 
 Yoontae Hwang received my Ph.D. in Industrial Engineering from Ulsan National Institute of Science and Technology (UNIST, Korea) on August 16, 2024. My dissertation, titled "Financial Representation Learning," was completed under the supervision of [Yongjae Lee](https://scholar.google.co.kr/citations?user=dAMXPRcAAAAJ&hl=en).  [Click my Website](https://yoontae6719.github.io/) 
 
