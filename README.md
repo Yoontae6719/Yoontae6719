@@ -8,6 +8,8 @@ Yoontae Hwang received my Ph.D. in Industrial Engineering from Ulsan National In
 
 Recently, I was awarded the Sejong Science Fellowship by the National Research Foundation of Korea. Since September 2024, I have been working as a visiting postdoctoral researcher in Prof. [Stefan Zohren](https://scholar.google.co.uk/citations?user=mtNQD-8AAAAJ&hl=en)'s lab at the University of Oxford, where I've been focused on time-series analysis based on deep learning.
 
+I am actively seeking academic positions starting from September 2025, with a focus on my research interests in Deep Learning, Time-series analysis, and Finance. In my future role, I hope to continue exploring the intersection of AI and financial markets, with a particular emphasis on developing more robust predictive models.
+
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
